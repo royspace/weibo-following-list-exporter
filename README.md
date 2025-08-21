@@ -8,4 +8,4 @@
 4. Light/Dark mode toggle inside the exported file
 ## How to install
 1. Install the [Tampermonkey](https://www.tampermonkey.net/index.php#download) extension
-2. Install script here
+2. Install script from [here](https://greasyfork.org/en/scripts/546705-weibo-following-exporter-%E5%BE%AE%E5%8D%9A%E5%85%B3%E6%B3%A8%E5%AF%BC%E5%87%BA)
