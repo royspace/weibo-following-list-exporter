@@ -2,7 +2,7 @@
 // @name         Weibo Following Exporter (微博关注导出)
 // @namespace    weibo-following-exporter
 // @author       Roy
-// @version      1.2.3
+// @version      1.2.4
 // @description  Harvest following cards, export HTML with optional embedded avatar base64 or no avatar, live search
 // @match        https://weibo.com/u/page/follow/*
 // @match        https://www.weibo.com/u/page/follow/*
@@ -469,7 +469,7 @@
 		const url = URL.createObjectURL(blob);
 		const a = Object.assign(document.createElement("a"), {
 			href: url,
-			download: `weibo_following_export_${suffix}${note}_${count}_${now}.html`,
+			download: `weibo_following_list_${suffix}${note}_${count}_${now}.html`,
 		});
 		document.body.appendChild(a);
 		a.click();
