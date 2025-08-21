@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Weibo Following Exporter (微博关注导出)
 // @namespace    weibo-following-exporter
+// @author       Roy
 // @version      1.2.3
 // @description  Harvest following cards, export HTML with optional embedded avatar base64 or no avatar, live search
 // @match        https://weibo.com/u/page/follow/*
@@ -11,6 +12,8 @@
 // @connect      sinaimg.cn
 // @connect      *.sinaimg.cn
 // @license      MIT
+// @downloadURL https://update.greasyfork.org/scripts/546705/Weibo%20Following%20Exporter%20%28%E5%BE%AE%E5%8D%9A%E5%85%B3%E6%B3%A8%E5%AF%BC%E5%87%BA%29.user.js
+// @updateURL https://update.greasyfork.org/scripts/546705/Weibo%20Following%20Exporter%20%28%E5%BE%AE%E5%8D%9A%E5%85%B3%E6%B3%A8%E5%AF%BC%E5%87%BA%29.meta.js
 // ==/UserScript==
 
 (function () {
