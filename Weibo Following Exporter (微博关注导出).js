@@ -10,6 +10,7 @@
 // @grant        GM_addStyle
 // @connect      sinaimg.cn
 // @connect      *.sinaimg.cn
+// @license      MIT
 // ==/UserScript==
 
 (function () {
